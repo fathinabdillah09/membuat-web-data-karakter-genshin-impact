@@ -3,3 +3,7 @@ Region Monstadt
 -Jean
 -Lisa
 -Varka
+
+Region Liyue
+-Zhongli
+-Ningguang
