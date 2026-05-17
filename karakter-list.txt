@@ -7,3 +7,4 @@ Region Monstadt
 Region Liyue
 -Zhongli
 -Ningguang
+-Ganyu
