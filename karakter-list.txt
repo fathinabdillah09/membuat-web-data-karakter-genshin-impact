@@ -8,3 +8,4 @@ Region Liyue
 -Zhongli
 -Ningguang
 -Ganyu
+-keqing
